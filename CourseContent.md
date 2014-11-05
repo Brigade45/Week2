@@ -28,7 +28,7 @@ Dizilere Başlangıç Değeri Atama
 ------------------------------
 ```
 int x[5]={5,0,6};
-int y[]={1,5,9};
+int y[/* eksik */]={1,5,9};
 char x[2][3]={"Ata","Bak","Top"};
 ```
 Not:C programlama dilin de ilk indis numarası 0 ile başlar.
